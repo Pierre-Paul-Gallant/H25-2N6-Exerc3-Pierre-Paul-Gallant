@@ -2,6 +2,7 @@
 
 ## Mise-à-jour en ligne
 Voici une première modification en ligne
+Est-ce que y'a un conflit ?
 Deuxième modif en ligne !
 
 ## mise-à-jour locale
