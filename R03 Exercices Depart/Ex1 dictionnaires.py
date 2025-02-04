@@ -14,7 +14,7 @@ print(f"Q1{80*'_'}")
 # Q1:  on veut savoir la valeur du nom de l'étudiant en utilisant les f string
 #      Dans le terminal, on aura: "Q1 Le nom de l'étudiant est : Vincent"  
 
-
+print("Q1 Le nom de l'étudiant est : Vincent" )
 
 
 
