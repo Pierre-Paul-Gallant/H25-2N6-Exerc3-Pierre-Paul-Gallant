@@ -2,6 +2,7 @@
 
 ## Mise-à-jour en ligne
 Voici une première modification en ligne
+Deuxième modif en ligne !
 
 ## mise-à-jour locale
 Voici une novuelle modification
